@@ -1,0 +1,2 @@
+direction,delay_ms,predictor_steps,beta,gust_reached,gust_start_s,gust_end_s,settling_time_after_onset_s,final_speed_error_mps,peak_dy_m,min_dy_m,max_dy_m,final_dy_m,peak_dz_m,final_dz_m
+plus_y,0,0,0.79,False,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0

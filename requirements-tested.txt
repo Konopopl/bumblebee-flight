@@ -1,0 +1,9 @@
+numpy==2.3.5
+scipy==1.18.0
+jax==0.10.2
+jaxlib==0.10.2
+matplotlib==3.10.6
+Pillow==12.0.0
+av==18.0.0
+pytest==8.4.2
+ruff==0.12.0
